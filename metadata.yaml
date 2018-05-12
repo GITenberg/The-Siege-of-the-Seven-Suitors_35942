@@ -1,0 +1,48 @@
+_repo: The-Siege-of-the-Seven-Suitors_35942
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Phillips, Coles
+    aliases:
+    - Phillips, Clarence Coles
+    - Phillips, C. Coles (Clarence Coles)
+    birthdate: 1880
+    deathdate: 1927
+    gutenberg_agent_id: '35214'
+    url: http://www.gutenberg.org/2009/agents/35214
+  - agent_name: Birch, Reginald Bathurst
+    aliases:
+    - Birch, Reginald B. (Reginald Bathurst)
+    - Birch, Reginald Bathhurst
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '26446'
+    url: http://www.gutenberg.org/2009/agents/26446
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
+description: ''
+gutenberg_issued: '2011-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aunts -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Courtship -- Fiction'
+title: The Siege of the Seven Suitors
+url: http://www.gutenberg.org/ebooks/35942
