@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4371
     wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35942#The-Siege-of-the-Seven-Suitors
 gutenberg_issued: '2011-04-24'
 gutenberg_type: Text
 identifiers:
